@@ -1,0 +1,6 @@
+dbt-venv
+dbt_packages
+*.log
+target
+service_account.json
+.user.yml
